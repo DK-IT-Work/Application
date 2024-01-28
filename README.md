@@ -8,7 +8,13 @@
 - CSS  <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="[html logo]" width="30"/>
 - JS   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="[html logo]" width="40"/>
 
+
 ## How to
+
+1. Download as ZIP
+2. Unzip "Application-main"
+3. Open "main.html" in your prefered browser
+   
 
 
 
