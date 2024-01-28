@@ -2,7 +2,7 @@
 
 ## Languages used
 
-- HTML <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="[html logo]" width="30"/>
+- HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="[html logo]" width="30"/>
 - CSS
 - JS
 
