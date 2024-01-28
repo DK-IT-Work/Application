@@ -7,7 +7,7 @@
 - HTML
 - CSS
 - Javascript
-
+------------
 - IDE: Visual Studio Code
 
 ## How to 
