@@ -2,7 +2,7 @@
 
 ## Languages used
 
-- HTML 
+- HTML <img src="https://icon-icons.com/de/symbol/Datei-Typ-html/130541" alt="[html logo]" width="20"/>
 - CSS
 - JS
 
