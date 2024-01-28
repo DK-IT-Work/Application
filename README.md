@@ -1,5 +1,10 @@
 # Resumé Webpage
 
+## Languages used
+
+- HTML 
+- CSS
+- JS
 
 
 
