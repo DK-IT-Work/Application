@@ -3,8 +3,8 @@
 ## Languages used
 
 - HTML <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="[html logo]" width="30"/>
-- CSS
-- JS
+- CSS  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="[html logo]" width="30"/>
+- JS   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130541.png" alt="[html logo]" width="30"/>
 
 
 
