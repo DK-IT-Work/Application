@@ -9,7 +9,7 @@
 - JS   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="[html logo]" width="40"/>
 
 
-## How to
+## How to 
 
 1. Download as ZIP
 2. Unzip "Application-main"
