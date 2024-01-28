@@ -2,7 +2,7 @@
 
 ## Languages used
 
-- HTML <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="[html logo]" width="20"/>
+- HTML <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="[html logo]" width="30"/>
 - CSS
 - JS
 
